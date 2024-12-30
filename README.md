@@ -6,9 +6,9 @@ Provides relevant responses based on user input.
 Maintains a conversation history that can be viewed by the user.
 Built using Python and leverages popular libraries for NLP and machine learning.
 <h2>Technologies Used</h2>
-Python
-NLTK
-Scikit-learn
-Streamlit
-JSON for intents data
+1) Python
+2) NLTK
+3) Scikit-learn
+4) Streamlit
+5) JSON for intents data
 
