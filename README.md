@@ -1,5 +1,5 @@
 # Implementation-of-ChatBot-by-NLP
-This project aims at the development of a ChatBot that can hold human-like conversation with the users, using the various Natural Language Processing techniques
+This project aims at the development of a ChatBot that can hold human-like conversation with the users, using the various Natural Language Processing techniques.The chatbot is designed to understand user intents and provide appropriate responses based on predefined patterns and responses. It utilizes the nltk library for natural language processing, scikit-learn for machine learning, and streamlit for creating an interactive web interface
 <h2>Features</h2>
 Understands various user intents such as greetings, farewells, gratitude, and more.
 Provides relevant responses based on user input.
@@ -12,16 +12,14 @@ Built using Python and leverages popular libraries for NLP and machine learning.
 4) Streamlit
 5) JSON for intents data
 
-Chatbot using NLP
-Overview
-This project implements a chatbot using Natural Language Processing (NLP) techniques. The chatbot is designed to understand user intents and provide appropriate responses based on predefined patterns and responses. It utilizes the nltk library for natural language processing, scikit-learn for machine learning, and streamlit for creating an interactive web interface.
 
-Features
+
+<h2>Features</h2>
 Understands various user intents such as greetings, farewells, gratitude, and more.
 Provides relevant responses based on user input.
 Maintains a conversation history that can be viewed by the user.
 Built using Python and leverages popular libraries for NLP and machine learning.
-Technologies Used
+<h2>Technologies Used</h2>
 Python
 NLTK
 Scikit-learn
